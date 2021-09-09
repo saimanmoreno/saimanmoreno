@@ -8,7 +8,7 @@
 😎 About me:
 - 🔭 I’m currently working and learning FullStack Technologies (MERN Stack)
 - 🌱 Learning PHP (Laravel), Flutter, Firebase and C#
-- ⚡ Fun fact: I am very lazy, I create algorithms to avoid working on tedious jobs 😂
+- ⚡ Fun fact: I am very lazy, I create algorithms to avoid working on tedious jobs 😂 
 
  <div>
   <a href="https://github.com/saimanmoreno">
