@@ -14,6 +14,17 @@
   <a href="https://github.com/saimanmoreno">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=saimanmoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanmoreno&layout=compact&langs_count=7&theme=dracula"/>
+   
+   <h4>🔥 Streak Stats</h4>
+   <p>
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=saimanmoreno&theme=dracula" alt="saimanmoreno" />
+   </p>
+
+   <h4>📊 Stats</h4>
+   <p>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saimanmoreno&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   </p>
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
