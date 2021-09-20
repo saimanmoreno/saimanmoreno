@@ -1,7 +1,7 @@
 ### Poetas tem de escrever poemas, eu tenho de escrever códigos ❤💻👋
 
 😊 My favourites quotes:::
-- “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+- “Experience is the name everyone gives to their mistakes.” – Oscar Wild
 - “Knowledge is power.” – Francis Bacon
 - “Simplicity is the soul of efficiency.” – Austin Freeman
 
