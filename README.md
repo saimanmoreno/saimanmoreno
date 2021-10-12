@@ -3,7 +3,8 @@
 😊 My favourites quotes:::
 - “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 - “Knowledge is power.” – Francis Bacon
-- “Simplicity is the soul of efficiency.” – Austin Freeman
+- “Simplicity is the soul of efficiency.
+” – Austin Freeman
 
 😎 About me:
 - 🔭 I’m currently working and learning FullStack Technologies (MERN Stack)
