@@ -1,16 +1,5 @@
 ### Poetas tem de escrever poemas, eu tenho de escrever códigos ❤💻👋
 
-😊 My favourites quotes:::
-- “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
-- “Knowledge is power.” – Francis Bacon
-- “Simplicity is the soul of efficiency.
-” – Austin Freeman
-
-😎 About me:
-- 🔭 I’m currently working and learning FullStack Technologies (MERN Stack)
-- 🌱 Learning PHP (Laravel), Flutter, Firebase and C#
-- ⚡ Fun fact: I am very lazy, I create algorithms to avoid working on tedious jobs 😂 
-
  <div>
   <a href="https://github.com/saimanmoreno">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=saimanmoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
