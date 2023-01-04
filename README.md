@@ -1,4 +1,4 @@
-### Poetas tem de escrever poemas, eu tenho de escrever códigos ❤💻👋
+### Poetas tem de escrever rsrs, eu tenho de escrever códigos ❤💻👋
 
  <div>
   <a href="https://github.com/saimanmoreno">
