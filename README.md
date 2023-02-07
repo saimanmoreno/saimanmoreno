@@ -1,4 +1,4 @@
-### Poetas tem de escrever poemas, eu tenho de escrever códigos ❤💻👋
+### Poets have to write poems, I have to write codes ❤💻👋
 
  <div>
   <a href="https://github.com/saimanmoreno">
@@ -24,7 +24,6 @@
  
 <div> 
   <a href="https://instagram.com/thesiimmons" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/simmons_moreno" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:simaojmoreno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/simaojmoreno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
